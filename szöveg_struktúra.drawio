@@ -1,0 +1,189 @@
+<mxfile host="app.diagrams.net" modified="2023-05-27T09:40:33.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="xb3P4hULknLmOwzX7CHy" version="21.3.4" type="device">
+  <diagram name="1 oldal" id="OR_FBINogM6ItG2hrESR">
+    <mxGraphModel dx="1932" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OyY0-yEAtnnJZxy43agx-4" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-2" target="OyY0-yEAtnnJZxy43agx-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-6" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-2" target="OyY0-yEAtnnJZxy43agx-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-2" value="2001&lt;br&gt;Mondjak egy viccet?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262" y="-227.5" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-3" value="2005&lt;br&gt;Miért nincs haja a robotfejnek? Mert nincs keze, amivel megszáríthatná." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="513" y="-13.75" width="120" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-52" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-5" target="OyY0-yEAtnnJZxy43agx-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-55" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-5" target="OyY0-yEAtnnJZxy43agx-3" edge="1">
+          <mxGeometry x="0.6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-5" value="2002&lt;br&gt;Biztos?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="-87.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-8" value="Úgy látom ez a beszélgetés fej-fej mellett halad." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-9" value="Na ki mondhatja el magáról, hogy a kezében tarthat egy beszélő robotfejet." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-13" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-10" target="OyY0-yEAtnnJZxy43agx-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-17" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-10" target="OyY0-yEAtnnJZxy43agx-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-10" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;6&lt;br&gt;Szia! Szeretnél részt venni egy rövid játékban?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="269" y="270" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Számozás:&lt;br&gt;ezres: párbeszéd sorszám&lt;br&gt;százas: a szöveg szintje&lt;br&gt;tizes/egyes: a szöveg sorszáma&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F80A0A;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="650" y="-100" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-12" target="OyY0-yEAtnnJZxy43agx-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-12" value="7&lt;br&gt;Ezt sajnálattal hallom, talán legközelebb." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-14" value="STOP" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="415" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-22" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-18" target="OyY0-yEAtnnJZxy43agx-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-25" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-18" target="OyY0-yEAtnnJZxy43agx-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-18" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;8&lt;br&gt;Nagyszerű! Elmondom az első kérdést. Szereted a csokoládét?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="304" y="480" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-28" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-19" target="OyY0-yEAtnnJZxy43agx-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-32" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-19" target="OyY0-yEAtnnJZxy43agx-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-19" value="11&lt;br&gt;Szeretnél egyszer elutazni az űrbe?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="292" y="730" width="232" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-21" target="OyY0-yEAtnnJZxy43agx-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-21" value="9&lt;br&gt;Nagyszerű! Én sajnos nem tudom megkóstolni. Amint látható nincs emberi szám." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="610" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-24" target="OyY0-yEAtnnJZxy43agx-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-24" value="10&lt;br&gt;Sajnálom. Pedig az adatbázisom szerint nagyon finom." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-27" target="OyY0-yEAtnnJZxy43agx-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-27" value="12&lt;br&gt;Szóval kalandvágyó vagy? Nagyon izgalmas lehet. Sok érdekesség, és felfedeznivaló van odafent." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="900" width="135" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-35" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-29" target="OyY0-yEAtnnJZxy43agx-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-41" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-29" target="OyY0-yEAtnnJZxy43agx-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-29" value="14&lt;br&gt;Szeretnél megtanulni zongorázni?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="1060" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-31" target="OyY0-yEAtnnJZxy43agx-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-31" value="13&lt;br&gt;Látom az űrutazás nem a te témád." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-34" target="OyY0-yEAtnnJZxy43agx-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-34" value="15&lt;br&gt;Ez egy remek ötlet. Én is szívesen megtanulnám, de amint látod, nincs kezem. De le tudok játszani egy darabot. Megmutatom." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="1070" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-36" target="OyY0-yEAtnnJZxy43agx-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-36" value="16&lt;br&gt;Zongora darab lejátszása" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-45" value="Igen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-38" target="OyY0-yEAtnnJZxy43agx-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-47" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-38" target="OyY0-yEAtnnJZxy43agx-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-38" value="18&lt;br&gt;Szeretnél te is egy saját robotot?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="323" y="1430" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-40" target="OyY0-yEAtnnJZxy43agx-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1350" />
+              <mxPoint x="408" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-40" value="17&lt;br&gt;Értem! Zongorázás nem a te dolgod." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-44" target="OyY0-yEAtnnJZxy43agx-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="678" y="1720" />
+              <mxPoint x="408" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-44" value="19&lt;br&gt;Ezt örömmel hallom. Tudom neked ajánlani a CHARTER szakköröket, melyben nem csak robotokkal, de az informatika alapjaival is megismerkedhetsz." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1490" width="165" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-46" target="OyY0-yEAtnnJZxy43agx-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="158" y="1720" />
+              <mxPoint x="408" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-46" value="20&lt;br&gt;Pedig nagyon érdekesek tudunk lenni. De megértem, hogy ez nem a te világod." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="1500" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-48" value="21&lt;br&gt;Köszönöm, hogy játszottál velem." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="348" y="1770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-54" value="Nem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OyY0-yEAtnnJZxy43agx-51" target="OyY0-yEAtnnJZxy43agx-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513" y="47.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-51" value="2003&lt;br&gt;100%?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="17.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OyY0-yEAtnnJZxy43agx-53" target="OyY0-yEAtnnJZxy43agx-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="107.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyY0-yEAtnnJZxy43agx-53" value="2004&lt;br&gt;Akkoris mondok egyet." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="117.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
